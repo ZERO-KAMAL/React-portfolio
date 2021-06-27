@@ -181,7 +181,7 @@ export default function HeroSection() {
                 </li>
                 <li>
                   <a
-                    href="http://twitter.com/webcifar"
+                    href="https://github.com/ZERO-KAMAL"
                     target="_blank"
                     rel="noreferrer"
                   >
@@ -190,16 +190,7 @@ export default function HeroSection() {
                 </li>
                 <li>
                   <a
-                    href="http://isntagram.com/web_cifar"
-                    target="_blank"
-                    rel="noreferrer"
-                  >
-                    IG
-                  </a>
-                </li>
-                <li>
-                  <a
-                    href="http://webcifar.com"
+                    href="www.linkedin.com/in/kamal-khatri97"
                     target="_blank"
                     rel="noreferrer"
                   >
