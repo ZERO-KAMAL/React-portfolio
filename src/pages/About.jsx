@@ -2,7 +2,7 @@ import React from 'react';
 import styled from 'styled-components';
 import PText from '../components/PText';
 import Button from '../components/Button';
-import AboutImg from '../assets/images/about-page-img.png';
+import AboutImg from '../assets/images/about-page-img.jpg';
 import AboutInfoItem from '../components/AboutinfoItem';
 import ContactBanner from '../components/ContactBanner';
 
